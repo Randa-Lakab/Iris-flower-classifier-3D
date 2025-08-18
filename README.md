@@ -4,7 +4,7 @@ This is a simple Python project that allows users to enter the characteristics o
 
 It also provides a 3D visualization using the first 3 features of the dataset.
 
-## 📌 Requirements
+##  Requirements
 
 - numpy
 - pandas
@@ -12,7 +12,23 @@ It also provides a 3D visualization using the first 3 features of the dataset.
 - scikit-learn
 - scipy
 
-## ▶️ Usage
+## Example
+Enter sepal length: 5.1
+Enter sepal width: 3.5
+Enter petal length: 1.4
+Enter petal width: 0.2
+
+Predicted class: Iris-setosa
+
+## Future Improvements
+
+Add support for more distance metrics (Manhattan, Minkowski, etc.)
+
+Build a simple GUI with Tkinter/Streamlit
+
+Deploy as a small web app for online classification
+
+##  Usage
 
 `bash
 python iris_classifier.py
