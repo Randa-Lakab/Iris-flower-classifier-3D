@@ -22,7 +22,7 @@ Predicted class: Iris-setosa
 
 ### Future Improvements
 
-Add support for more distance metrics (Manhattan, Minkowski, etc.)
+•Add support for more distance metrics (Manhattan, Minkowski, etc.)
 
 Build a simple GUI with Tkinter/Streamlit
 
