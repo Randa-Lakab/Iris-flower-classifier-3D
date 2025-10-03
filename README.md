@@ -26,7 +26,7 @@ Predicted class: Iris-setosa
 
 •Build a simple GUI with Tkinter/Streamlit
 
-Deploy as a small web app for online classification
+•Deploy as a small web app for online classification
 
 ###  Usage
 
