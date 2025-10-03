@@ -21,7 +21,7 @@ Enter petal length: 1.4
 
 Enter petal width: 0.2
 
-Predicted class: Iris-setosa
+=>Predicted class: Iris-setosa
 
 ### Future Improvements
 
