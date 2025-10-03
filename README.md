@@ -30,5 +30,7 @@ Predicted class: Iris-setosa
 
 ###  Usage
 
-`bash
+```bash
 python iris_classifier.py
+
+```
