@@ -20,7 +20,7 @@ Enter petal width: 0.2
 
 Predicted class: Iris-setosa
 
-## Future Improvements
+### Future Improvements
 
 Add support for more distance metrics (Manhattan, Minkowski, etc.)
 
