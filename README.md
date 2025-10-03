@@ -28,7 +28,7 @@ Build a simple GUI with Tkinter/Streamlit
 
 Deploy as a small web app for online classification
 
-##  Usage
+###  Usage
 
 `bash
 python iris_classifier.py
