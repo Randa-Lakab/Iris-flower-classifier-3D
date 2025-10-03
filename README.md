@@ -12,7 +12,7 @@ It also provides a 3D visualization using the first 3 features of the dataset.
 - scikit-learn
 - scipy
 
-## Example
+### Example
 Enter sepal length: 5.1
 Enter sepal width: 3.5
 Enter petal length: 1.4
