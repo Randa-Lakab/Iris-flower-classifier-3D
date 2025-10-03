@@ -14,8 +14,11 @@ It also provides a 3D visualization using the first 3 features of the dataset.
 
 ### Example
 Enter sepal length: 5.1
+
 Enter sepal width: 3.5
+
 Enter petal length: 1.4
+
 Enter petal width: 0.2
 
 Predicted class: Iris-setosa
