@@ -24,7 +24,7 @@ Predicted class: Iris-setosa
 
 •Add support for more distance metrics (Manhattan, Minkowski, etc.)
 
-Build a simple GUI with Tkinter/Streamlit
+•Build a simple GUI with Tkinter/Streamlit
 
 Deploy as a small web app for online classification
 
