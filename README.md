@@ -1,4 +1,4 @@
-# Iris Flower Classifier with 3D Visualization 🌼
+## Iris Flower Classifier with 3D Visualization 
 
 This is a simple Python project that allows users to enter the characteristics of a flower and identifies the closest match from the Iris dataset using Euclidean distance.
 
