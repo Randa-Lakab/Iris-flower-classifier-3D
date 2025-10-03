@@ -4,7 +4,7 @@ This is a simple Python project that allows users to enter the characteristics o
 
 It also provides a 3D visualization using the first 3 features of the dataset.
 
-##  Requirements
+###  Requirements
 
 - numpy
 - pandas
